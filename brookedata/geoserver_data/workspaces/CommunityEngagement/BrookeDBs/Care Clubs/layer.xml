@@ -1,0 +1,16 @@
+<layer>
+  <name>Care Clubs</name>
+  <id>LayerInfoImpl-66cab38e:185de28861f:-7fe8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--72057ab1:183ae4e7dc1:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-66cab38e:185de28861f:-7fe9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-21 12:14:06.343 UTC</dateCreated>
+</layer>

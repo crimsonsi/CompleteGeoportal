@@ -1,0 +1,16 @@
+<layer>
+  <name>Community Groups</name>
+  <id>LayerInfoImpl-66cab38e:185de28861f:-7fef</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--72057ab1:183ae4e7dc1:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-66cab38e:185de28861f:-7ff0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-16 22:09:22.496 UTC</dateCreated>
+</layer>

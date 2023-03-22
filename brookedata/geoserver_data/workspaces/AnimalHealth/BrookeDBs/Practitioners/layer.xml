@@ -1,0 +1,16 @@
+<layer>
+  <name>Practitioners</name>
+  <id>LayerInfoImpl-66cab38e:185de28861f:-7fe5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--72057ab1:183ae4e7dc1:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-66cab38e:185de28861f:-7fe6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-02-27 08:16:36.225 UTC</dateCreated>
+</layer>
